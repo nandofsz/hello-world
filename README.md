@@ -1,4 +1,4 @@
 # hello-world
 Mi primer repositorio
-Este es el primer texto que escribo.
+Este es el segundo texto que escribo.
 Vamos a probar a ver que tal funciona esto.
